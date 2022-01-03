@@ -17,6 +17,7 @@ function App() {
   return (
     <div >
       <h1>Link</h1>
+      <p>Hey Austin!</p>
       <nav style={{
         borderBottom: "solid 1px",
         paddingBottom: "1rem",
