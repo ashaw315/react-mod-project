@@ -1,23 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import React,{useState, useEffect} from "react";
+import {Link} from "react-router-dom";
+import FurnitureList from "./FurnitureList";
 
 function App() {
+  const [furniture, setFurniture] = useState([])
+
+  useEffect(() => {
+    fetch('https://floating-cove-91761.herokuapp.com/furniture')
+      .then((r) => r.json())
+      .then((furniture) => setFurniture(furniture))
+  },[])
+
+  console.log(furniture)
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div >
+      <h1>Link</h1>
+      <nav style={{
+        borderBottom: "solid 1px",
+        paddingBottom: "1rem",
+      }}>
+        <Link to="/About">About</Link> | {""}
+        <Link to="/Home">Home</Link>
+      </nav>
     </div>
   );
 }
