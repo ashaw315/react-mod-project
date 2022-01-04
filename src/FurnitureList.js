@@ -2,7 +2,7 @@ import React from "react";
 
 function FurnitureList({furniture}) {
 
-    console.log(furniture)
+    
 
     const furnitureInfo = furniture.map((furn) => {
         return (
@@ -11,8 +11,6 @@ function FurnitureList({furniture}) {
             </div>
                    )
     })
-
-    console.log(furniture.name)
 
 //   const toyInfo = toys.map((toy) => {
 //       return (
