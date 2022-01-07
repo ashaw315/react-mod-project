@@ -80,12 +80,23 @@ function handleSortChange(event) {
                 <input
                 autocomplete="off"
                 type="radio"
+                value="High"
+                name="sort"
+                checkbox={sortBy === "High"}
+                onChange={handleSortChange}
+                />
+                Price High
+            </label>
+            <label>
+                <input
+                autocomplete="off"
+                type="radio"
                 value="Price"
                 name="sort"
                 checkbox={sortBy === "Price"}
                 onChange={handleSortChange}
                 />
-                Price
+                Price Low
             </label>
              <FilterBar setFurnFilter={setFurnFilter}/>
             </div>

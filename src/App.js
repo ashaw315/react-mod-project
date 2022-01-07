@@ -22,7 +22,7 @@ function App() {
   
 
   useEffect(() => {
-    fetch('http://localhost:3000/furniture')
+    fetch('https://floating-cove-91761.herokuapp.com/furniture')
       .then((r) => r.json())
       .then((furniture) => setFurniture(furniture))
   },[])
@@ -67,9 +67,11 @@ function App() {
     .sort((furniture1, furniture2) => {
   if (sortBy === "Alphabetically") {
     return furniture1.name.localeCompare(furniture2.name);
+  } else if (sortBy === "High") {
+    return furniture2.price - furniture1.price;
   } else {
-    return furniture1.price - furniture2.price;
-  } 
+    return furniture1.price - furniture2.price
+  }
 });
 
 // const filteredFurniture = sortedFurniture.filter(
