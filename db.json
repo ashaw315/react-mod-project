@@ -1,235 +1,234 @@
 {
-    "furniture": [
-      {
-        "id": 1,
-        "name": "Palace Wood Chair",
-        "category": "Seating",
-        "image": "https://a.1stdibscdn.com/palace-wood-chair-by-george-sowden-from-memphis-milano-for-sale-picture-2/12330573/f_173490921577343751802/palace2_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "George Sowden",
-        "materials": "Wood, Lacquered",
-        "price": 1169.42,
-        "about": "Palace chair in colored lacquered wood, designed in 1983, by George Sowden. George Sowden was born in Leeds, UK in 1942. He studied architecture at Gloucestershire College of Art in the 1960s. He moved to Milano in 1970 where he started working with Ettore Sottsass and Olivetti. In 1981, he was one of the co-founders of the Memphis Group, the design movement that had a significant impact on design aesthetics in the eighties. The same year he founded his design studio Sowden Design, and has since collaborated with numerous world famous companies. George Sowden has received numerous awards. Memphis Milano is the great cultural phenomenon of the 1980s that revolutionized creative and commercial logics in design. Born from the idea of Ettore Sottsass and a group of young designers and architects, in Milan, coupled in the years by famous designers from the international scene, Memphis turned upside down all of the existing parameters on living. Ettore Sottsass as the backbone of the group, design gained a new concept and expression through new shapes, materials and patterns, expanding the creative limits of the industry. Memphis became a symbol of New Design. Its influence is still clear in various sectors of production and beyond."
-      },
-      {
-        "id": 2,
-        "name": "Big Sur Wooden Couch",
-        "category": "Seating",
-        "image": "https://a.1stdibscdn.com/big-sur-wooden-couch-by-peter-shire-from-memphis-milano-for-sale/1121189/f_173487621577510025238/17348762_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Peter Shire",
-        "materials": "Wood, Wool, Lacquered",
-        "price": 16070.30,
-        "about": "The Big Sur couch is made out of 100% wool, and the structure is in lacquered wood. The couch was originally designed in 1986 by Peter Shire for Memphis Milano. Peter Shire is a Los Angeles artist. Shire was born in the Echo Park district of Los Angeles, where he currently lives and works. His sculpture, furniture and ceramics have been exhibited in the United States, Italy, France, Japan and Poland, Shire has been associated with the Memphis Group of designers, has worked on the Design Team for the XXIII Olympiad with the American Institute of Architects, and has designed public sculptures in Los Angeles and other California cities. Shire has been honored by awards for his contribution to the cultural life of the City of Los Angeles. Memphis Milano is the great cultural phenomenon of the 1980s that revolutionized creative and commercial logics in design. Born from the idea of Ettore Sottsass and a group of young designers and architects, in Milan, coupled in the years by famous designers from the international scene, Memphis turned upside down all of the existing parameters on living. Ettore Sottsass as the backbone of the group, design gained a new concept and expression through new shapes, materials and patterns, expanding the creative limits of the industry. Memphis became a symbol of new design. Its influence is still clear in various sectors of production and beyond."
-      },
-      {
-        "id": 3,
-        "name": "Juan Chaise Lounge",
-        "category": "Seating",
-        "image": "https://a.1stdibscdn.com/juan-chaise-lounge-by-marco-zanini-from-memphis-milano-for-sale/1121189/f_173490021577510128963/17349002_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Marco Zanini",
-        "materials": "Metal, Plastic, Laminated",
-        "price": 9319.43,
-        "about": "Juan chaise lounge in plastic laminate, metal and alcantara. Designed in 1987, by Marco Zanini for Memphis Milano. Marco Zanini was born in Trento in 1954. He graduated in architecture at the University of Florence and perfects his studies in the US. In 1981 he was one of the founding members of the Memphis group. He works as an architect, designer, and has lectured on architecture and design in Japan, USA, Australia, New Zealand, Colombia, Chile and Spain. His works are exhibited in many museums and private collections in various. Memphis Milano is the great cultural phenomenon of the 1980s that revolutionized creative and commercial logics in design. Born from the idea of Ettore Sottsass and a group of young designers and architects, in Milan, coupled in the years by famous designers from the international scene, Memphis turned upside down all of the existing parameters on living. Ettore Sottsass as the backbone of the group, design gained a new concept and expression through new shapes, materials and patterns, expanding the creative limits of the industry. Memphis became a symbol of New Design. Its influence is still clear in various sectors of production and beyond."
-      },
-      {
-        "id": 4,
-        "name": "Dublin Couch",
-        "category": "Seating",
-        "image": "https://a.1stdibscdn.com/dublin-couch-by-marco-zanini-for-memphis-milano-collection-for-sale/1121189/f_241092921627586443302/24109292_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Marco Zanini",
-        "materials": "Plastic, Laminated",
-        "price": 9471.41,
-        "about": "Dublin couch in plastic, metal and fabric by Marco Zanini for Memphis Milano collection Additional information: Couch in plastic laminate, metal and nonflammable synthetic fabric. Collection: Memphis Milano Designer: Marco Zanini Year: 1981 Dimensions: W 185, D 76, H 80 cm The product is purchased with authenticity certificate and guarantee stamp. Pricing: price does not include VAT Marco Zanini graduated in Architecture from the University of Florence in 1976 and completed his studies in the United States. In 1977 he began collaborating with Ettore Sottsass in Milan. Zanini was one of the co-founders of Memphis in 1981, and designed works for all the collections. He designs ceramics, jewelry, furniture, and blown-glass objects. Founder together with Sottsass of Sottsass Associati, he is the Design Manager for many projects: office furniture for well-known brands, residential interiors, showroom interiors, exhibition design, street furniture and industrial products for a wide range of clients in Italy and abroad. He works as architect and designer in Japan, the United States, Australia, New Zealand, Colombia, Chile, and Spain. His works are to be found in numerous museums and private collections. Zanini holds frequent conferences on industrial design. Today he lives and works in São Paulo, Brazil. Memphis is the great cultural phenomenon of the 1980s that revolutionized creative and commercial logics in design. Born from the idea of Ettore Sottsass and a group of young designers and architects, in Milan, coupled in the years by famous designers from the international scene, Memphis turned upside down all of the existing parameters on living. Ettore Sottsass as the backbone of the group, design gained a new concept and expression through new shapes, materials and patterns, expanding the creative limits of the industry. Memphis became a symbol of New Design. Its influence is still clear in various sectors of production and beyond."
-      },
-      {
-        "id": 5,
-        "name": "First Wood and Metal Chair",
-        "category": "Seating",
-        "image": "https://a.1stdibscdn.com/first-wood-and-metal-chair-by-michele-de-lucchi-from-memphis-milano-for-sale/1121189/f_173488721577510081245/17348872_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Michele De Lucchi",
-        "materials": "Metal, Wood, Enameled",
-        "price": 1312.12,
-        "about": "The First chair in enameled wood and metal, was originally designed in 1983 by Michele De Lucchi. Michele De Lucchi was born in 1951 in Ferrara and graduated in architecture in Florence. During the period of radical and experimental architecture he was a prominent figure in movements like Cavart, Alchymia and Memphis. His architectural designs have been mainly for office buildings in Japan, in Germany, in Switzerland and in Italy. He has taken care of numerous art and design exhibitions and has planned buildings for museums as Triennale di Milano, Palazzo delle Esposizioni di Roma and Neues Museum Berlin. His professional work has always gone side-by-side with a personal exploration of architecture, design, technology and crafts. Memphis Milano is the great cultural phenomenon of the 1980s that revolutionized creative and commercial logics in design. Born from the idea of Ettore Sottsass and a group of young designers and architects, in Milan, coupled in the years by famous designers from the international scene, Memphis turned upside down all of the existing parameters on living. Ettore Sottsass as the backbone of the group, design gained a new concept and expression through new shapes, materials and patterns, expanding the creative limits of the industry. Memphis became a symbol of New Design. Its influence is still clear in various sectors of production and beyond."
-      },
-      {
-        "id": 6,
-        "name": "Riviera Chair",
-        "category": "Seating",
-        "image": "https://a.1stdibscdn.com/riviera-chair-in-plastic-laminate-memphis-milano-collection-for-sale/1121189/f_241096921627586508657/24109692_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Michele de Lucchi",
-        "materials": "Plastic, Laminated",
-        "price": 1740.21,
-        "about": "Riviera chair in plastic laminate with cushions covered for Memphis Milano collection Additional Information: Chair in plastic laminate with cushions covered in pink or black chintz cotton. Collection: Memphis Milano Designer: Michele De Lucchi Year: 1981 Dimensions: W 50, D 50, H 90 cm The product is purchased with authenticity certificate and guarantee stamp. Pricing: price does not include VAT Michele De Lucchi is an Italian designer and architect. In 1975 he graduated in Architecture from the University of Florence, where from 1975 to 1977 he worked as an assistant to Adolfo Natalini, the founder of Superstudio. Between the late ’70s and ’80s he was a leading figure in Radical Architecture, and participated in the leading Italian design movements of the time; he was also one of the co-founders of the Memphis Group, with which he collaborated from 1981 to 1987. De Lucchis projects at the time were carried out in collaboration with numerous Italian and European furniture brands. In 1990 he founded the Produzione Privata experimental workshop with the aim of combining an experimental approach with traditional techniques and craftsmanship. He has curated numerous art and design exhibitions and designed museum buildings such as the Triennale di Milano, the Palazzo delle Esposizioni in Rome and the Neues Museum in Berlin. He has carried out several projects for the city of Milan, including pavilions for Expo 2015, the UniCredit Pavilion in Piazza Gae Aulenti, and the setting up of the Pietà Rondanini at Castello Sforzesco. He teaches at the Faculty of Design of the Politecnico di Milano and is a member of the Accademia Nazionale di San Luca in Rome. Memphis is the great cultural phenomenon of the 1980s that revolutionized creative and commercial logics in design. Born from the idea of Ettore Sottsass and a group of young designers and architects, in Milan, coupled in the years by famous designers from the international scene, Memphis turned upside down all of the existing parameters on living. Ettore Sottsass as the backbone of the group, design gained a new concept and expression through new shapes, materials and patterns, expanding the creative limits of the industry. Memphis became a symbol of New Design. Its influence is still clear in various sectors of production and beyond."
-      },
-      {
-        "id": 7,
-        "name": "Treetops Floor Lamp",
-        "category": "Lighting",
-        "image": "https://a.1stdibscdn.com/treetops-floor-lamp-by-ettore-sottsass-from-memphis-milano-for-sale/1121189/f_173494021577510103910/17349402_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Ettore Sottsass",
-        "materials": "Glass, Metal",
-        "price": 2617.28,
-        "about": "Here you are shown the US wired Treetops floor lamp designed by Ettore Sottsass in 1981 in metal with halogen bulb. Ettore Sottsass was born in Innsbruck in 1917. In 1939 he graduated in architecture at the Politecnico di Torino. One of the most influential and important figures of the last century. As an Architect and Designer, he has participated in all radical movements whether created from the 1970s and 1980s. In 1981 he founded the Memphis group, a group that has radically changed the scenario of Italian and world design. Honored with numerous international awards, was winner of the Golden Compass in 1959. He designed the first laptop Valentina by Olivetti. He died in 2007 at the age of 90 years. Memphis Milano is the great cultural phenomenon of the 1980s that revolutionized creative and commercial logics in design. Born from the idea of Ettore Sottsass and a group of young designers and architects, in Milan, coupled in the years by famous designers from the international scene, Memphis turned upside down all of the existing parameters on living. Ettore Sottsass as the backbone of the group, design gained a new concept and expression through new shapes, materials and patterns, expanding the creative limits of the industry. Memphis became a symbol of New Design. Its influence is still clear in various sectors of production and beyond."
-      },
-      {
-        "id": 8,
-        "name": "Oceanic Table Lamp",
-        "category": "Lighting",
-        "image": "https://a.1stdibscdn.com/oceanic-table-lamp-eu-by-michele-de-lucchi-from-memphis-milano-for-sale/1121189/f_177576221582359365688/17757622_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Michele de Lucchi",
-        "materials": "Glass, Metal",
-        "price": 2617.28,
-        "about": "Here you are shown the EU wired, oceanic table lamp made in metal and glass, designed in 1981, by Michele De Lucchi. US version 110v also available in another listing. Michele De Lucchi was born in 1951 in Ferrara and graduated in architecture in Florence during the period of radical and experimental architecture he was a prominent figure in movements like Cavart, Alchymia and Memphis. His architectural designs have been mainly for office buildings in Japan, Germany, Switzerland and Italy. He has taken care of numerous art and design exhibitions and has planned buildings for museums as Triennale di Milano, Palazzo delle Esposizioni di Roma and Neues Museum Berlin. His professional work has always gone side-by-side with a personal exploration of architecture, design, technology and crafts."
-      },
-      {
-        "id": 9,
-        "name": "Ashoka Metal Table Lamp",
-        "category": "Lighting",
-        "image": "https://a.1stdibscdn.com/ashoka-metal-table-lamp-by-ettore-sottsass-from-memphis-milano-for-sale/1121189/f_173492121577510028772/17349212_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Ettore Sottsass",
-        "materials": "Metal, Lacquered",
-        "price": 2820.31,
-        "about": "Here you are shown the US wired, Ashoka Table Lamp in lacquered metal, designed by Ettore Sottsass in 1981 for Memphis Milano. Ettore Sottsass was born in Innsbruck in 1917. In 1939 he graduated in architecture at the Politecnico di Torino. One of the most influential and important figures of the last century. As an Architect and Designer, he has participated in all radical movements whether created from the 1970s and 1980s. In 1981 he founded the Memphis group, a group that has radically changed the scenario of Italian and world design. Honored with numerous international awards, was winner of the Golden Compass in 1959. He designed the first laptop Valentina by Olivetti. He died in 2007 at the age of 90 years."
-      },
-      {
-        "id": 10,
-        "name": "Santa Fe Porcelain Ceiling Lamp",
-        "category": "Lighting",
-        "image": "https://a.1stdibscdn.com/santa-fe-porcelain-ceiling-lamp-by-matteo-thun-from-memphis-milano-for-sale/1121189/f_173492921577510066739/17349292_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Matteo Thun",
-        "materials": "Porcelain, Glazed",
-        "price": 721.61,
-        "about": "Here you are shown the Santa Fe Porcelain Ceiling Lamp with EU wiring accessibility, designed in 1985 by Matteo Thun. The Lamp is made in porcelain, glazed in white and red. Lamp bulb is not included. Born 1952 in Bolzano, Italy. Matteo Thun studies under Oskar Kokoschka at the Salzburg Academy of Architectural, and receives a doctorate in Florence in 1975 with Adolfo Natalini. In 1978, he moves to Milan and becomes acquainted with Ettore Sottsass and starts working in his studio. Co-founding member in 1981 of Memphis Group, the design movement that so shaped events in the Eighties. The Vienna academy for Applied Arts appoints him to the Chair of Product Design and Ceramics in 1982. Terminates his work with Memphis and founds his own Studio Matteo Thun in Milan in 1984. Awarded three times the Compasso d’Oro for good design. Creative director from 1990 until 1993 for Swatch. Side Hotel Hamburg, Hotel of the year 2001. Gala spa award, vigilius mountain resort 2004. New look at the façade of “palazzo del cinema” during 61st Venice film festival, September 2004 and billboard. Selected for Compasso d Oro 2004 design prize for “Girly” by Catalano. Inducted into the Interior Design Hall of Fame, December 2004."
-      },
-      {
-        "id": 11,
-        "name": "Super Blue Table Light",
-        "category": "Lighting",
-        "image": "https://a.1stdibscdn.com/super-blue-table-or-floor-light-eu-by-martine-bedin-from-memphis-milano-for-sale/1121189/f_177568521582359356861/17756852_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Martine Bedin",
-        "materials": "Fiberglass, Glass",
-        "price": 2095.22,
-        "about": "Martine Bedin is an industrial designer, artist, architect and teacher. She studied Architecture at the École d architecture in Paris. In 1978 she received a scholarship that took her to Florence, where she met the members of the Radical Architecture movement: the founders of Alchimia, Superstudio and Archizoom Associati. The founder of Superstudio, Adolfo Natalini, invited her to exhibit The Decorated House at the Milan Triennale in 1979, where she met Michele De Lucchi and Ettore Sottsass. At the beginning of the 80s she spent two years in Sottsass studio, working on her own projects and writing for a French design and architecture magazine. In 1981 she was among the co-founders of the Memphis Group. Bedin works with various materials, such as marble, wood, metal, and ceramics. Her work is exhibited in major museums and private collections, such as the Musée des Arts Décoratifs in Paris, the Victoria & Albert Museum in London and the Manufacture Nationale de Sèvre."
-      },
-      {
-        "id": 12,
-        "name": "Charleston Floor Lamp",
-        "category": "Lighting",
-        "image": "https://a.1stdibscdn.com/charleston-us-110-v-floor-lamp-by-martine-bedin-for-memphis-milano-collection-for-sale/1121189/f_246730621627588228859/24673062_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Martine Bedin",
-        "materials": "Fiberglass, Glass",
-        "price": 1007.00,
-        "about": "Here you are shown the EU wired, super blue table or floor lamp in fiberglass, designed in 1981, by Martine Bedin. Color options also include: Yellow, White with Colored Sockets, and all White. US VERSION 110v AVAILABLE IN ANOTHER LISTING Martine Bedin was born in Bordeaux in 1957. In 1981 she was one of the founding members of the Memphis Group, she works as an architect, Industrial designer and professor. Her works are exhibited in many museums and private collections."
-      },
-      {
-        "id": 13,
-        "name": "Polar Side Table",
-        "category": "Tables",
-        "image": "https://a.1stdibscdn.com/polar-side-table-by-michele-de-lucchi-from-memphis-milano-for-sale/1121189/f_173491421577510011058/17349142_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Michele de Lucchi",
-        "materials": "Plastic, Laminated",
-        "price": 1978.04,
-        "about": "The Polar side table was originally designed by Michele De Lucchi in 1984 for Memphis Milano. It is made out of plastic laminate and lacquered wood. Michele De Lucchi was born in 1951 in Ferrara and graduated in architecture in Florence during the period of radical and experimental architecture he was a prominent figure in movements like Cavart, Alchymia and Memphis. His architectural designs have been mainly for office buildings in Japan, Germany, Switzerland and Italy. He has taken care of numerous art and design exhibitions and has planned buildings for museums as Triennale di Milano, Palazzo delle Esposizioni di Roma and Neues Museum Berlin. His professional work has always gone side-by-side with a personal exploration of architecture, design, technology and crafts."
-      },
-      {
-        "id": 14,
-        "name": "Emerald Side Table",
-        "category": "Tables",
-        "image": "https://a.1stdibscdn.com/emerald-side-table-1985-by-nathalie-du-pasquier-from-memphis-milano-for-sale/1121189/f_173488621577510075472/17348862_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Nathalie du Pasquier",
-        "materials": "Plastic, Wood, Laminated",
-        "price": 8434.24,
-        "about": "Emerald Sideboard in wood, plastic laminate and mirror, designed by Nathalie Du Pasquier in 1985. Nathalie du Pasquier was born in Bordeaux, France, in 1957. She has lived and worked in Milano since 1979. Until 1986 she worked as a designer and was a founder member of Memphis for which she designed many textiles, carpets, furniture and objects. When the group broke up in 87, painting became her main activity."
-      },
-      {
-        "id": 15,
-        "name": "Plaza Dressing Table",
-        "category": "Tables",
-        "image": "https://a.1stdibscdn.com/plaza-dressing-table-by-michael-graves-from-memphis-milano-for-sale/1121189/f_173491221577510006712/17349122_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Michael Graves",
-        "materials": "Glass, Wood, Lacquered",
-        "price": 27367.77,
-        "about": "The Plaza dressing table in briar, lacquered wood, glass, mirrors, and brass, contains six drawers. The Plaza was originally designed in 1981, by Michael Graves. Born in Indianapolis, he teaches architecture in Princeton since 1962. His architectural works include the Portland Building and the Humana Building, the extension of the Whitney Museum of American Art, and the Newark Museum. He designed the bed “Stanhope” and the dressing toilette “Plaza” for Memphis. Michael Graves died in 2015."
-      },
-      {
-        "id": 16,
-        "name": "Park Coffee Table",
-        "category": "Tables",
-        "image": "https://a.1stdibscdn.com/park-coffee-table-by-ettore-sottsass-for-memphis-milano-collection-for-sale/1121189/f_241096221627586496779/24109622_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Ettore Sottsass",
-        "materials": "Glass",
-        "price": 14739.62,
-        "about": "Ettore Sottsass was an Italian architect and designer. His work included furniture, jewelry, glass, lighting, home and office objects, as well as many buildings and interiors. He grew up in Turin and graduated in Architecture from the Politecnico di Torino in 1939. In 1947, in Milan, he founded his architecture and industrial design studio, where he began to create work using various media. In 1956, Sottsass went to New York and began to work in George Nelsons design studio. Back in Italy, he established major collaboration projects with Poltronova (1957) and Olivetti (1958). From the late 60s and throughout the 70s he collaborated with Superstudio and Archizoom Associati, within the Radical movement, until the foundation of Memphis Group in 1981, of which he was a founding member. In the mid-80s, with Sottsass Associati, mainly an architecture studio, he also designed elaborate shops and showrooms, company identities, exhibitions, interiors, Japanese consumer electronics, and furniture of all kinds. Ettore Sottsass was presented numerous international awards, winning the ADI Compasso d Oro in 1959. His work is on show in the permanent collections of many museums around the world such as the Metropolitan Museum of Art in New York, the Centre G. Pompidou in Paris, and the Victoria & Albert Museum in London"
-      },
-      {
-        "id": 17,
-        "name": "Brazil Side Table",
-        "category": "Tables",
-        "image": "https://a.1stdibscdn.com/brazil-side-table-by-peter-shire-from-memphis-milano-for-sale/1121189/f_173487721577510029308/17348772_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Peter Shire",
-        "materials": "Wood, Lacquered",
-        "price": 7398.23,
-        "about": "The Brazil side and console table in lacquered wood, was originally designed in 1981 by Peter Shire. Peter Shire is a Los Angeles artist. Shire was born in the Echo Park district of Los Angeles, where he currently lives and works. His sculpture, furniture and ceramics have been exhibited in the United States, Italy, France, Japan and Poland; Shire has been associated with the Memphis Group of designers, has worked on the Design Team for the XXIII Olympiad with the American Institute of Architects, and has designed public sculptures in Los Angeles and other California cities. Shire has been honored by awards for his contribution to the cultural life of the City of Los Angeles."
-      },
-      {
-        "id": 18,
-        "name": "Carrot Flower Vase",
-        "category": "Decorative",
-        "image": "https://a.1stdibscdn.com/carrot-flower-vase-by-nathalie-du-pasquier-from-memphis-milano-for-sale/1121189/f_173504621577510246239/17350462_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Nathalie du Pasquier",
-        "materials": "Ceramic",
-        "price": 385.17,
-        "about": "The Carrot ceramic vase was originally designed by Nathalie du Pasquier in 1985 for Memphis Milano. The transmuted ceramic arises in geometric compositions that expose the humor and poetry of everyday life. Nathalie du Pasquier was born in Bordeaux, France, in 1957.She has lived and worked in Milano since 1979. Until 1986 she worked as a designer and was a founder member of Memphis for which she designed many textiles, carpets, furniture and objects. When the group broke up in 87, painting became her main activity."
-      },
-      {
-        "id": 19,
-        "name": "Colorado Ceramic Teapot",
-        "category": "Decorative",
-        "image": "https://a.1stdibscdn.com/colorado-ceramic-teapot-by-marco-zanini-from-memphis-milano-for-sale/1121189/f_173505021577510270287/17350502_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Marco Zanini",
-        "materials": "Ceramic",
-        "price": 1112.58,
-        "about": "The Colorado teapot in ceramic was originally designed by Marco Zanini in 1983. Marco Zanini was born in Trento in 1954. He graduated in architecture at the University of Florence and perfects his studies in the US. In 1981 he was one of the founding members of the Memphis group. He works as an architect, designer, and has lectured on architecture and design in Japan, USA, Australia, New Zealand, Colombia, Chile and Spain. His works are exhibited in many museums and private collections in various."
-      },
-      {
-        "id": 20,
-        "name": "31 Imera Glass Vase",
-        "category": "Decorative",
-        "image": "https://a.1stdibscdn.com/31-imera-glass-vase-by-ettore-sottsass-from-memphis-milano-for-sale/1121189/f_173501121577510196866/17350112_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Ettore Sottsass",
-        "materials": "Blown Glass",
-        "price": 5116.23,
-        "about": "The Imera Glass Vase was originally designed by Ettore Sottsass in 1986. The vase is made out of blown glass, and signed on the base, for further information please see authenticity info below. Ettore Sottsass was born in Innsbruck in 1917. In 1939 he graduated in architecture at the Politecnico di Torino One of the most influential and important figures of the last century, Architect and Designer, he has participated in all radical movements whether created from the 1970s and 1980s. In 1981 he founded the Memphis group, a group that has radically changed the scenario of Italian and world design. Honored with numerous international awards, was winner of the Golden Compass in 1959. He designed the first laptop Valentina by Olivetti. He died in 2007 at the age of 90 years, however Memphis Milano continues and is the representation or Sottsass's great work and memory."
-      },
-      {
-        "id": 21,
-        "name": "Euphrates Vase",
-        "category": "Decorative",
-        "image": "https://a.1stdibscdn.com/euphrates-vase-in-porcelain-by-ettore-sottsass-for-memphis-milano-collection-for-sale/1121189/f_241099021627586537324/24109902_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Ettore Sottsass",
-        "materials": "Porcelain",
-        "price": 1407.25,
-        "about": "Ettore Sottsass was an Italian architect and designer. His work included furniture, jewelry, glass, lighting, home and office objects, as well as many buildings and interiors. He grew up in Turin and graduated in Architecture from the Politecnico di Torino in 1939. In 1947, in Milan, he founded his architecture and industrial design studio, where he began to create work using various media. In 1956, Sottsass went to New York and began to work in George Nelsons design studio. Back in Italy, he established major collaboration projects with Poltronova (1957) and Olivetti (1958). From the late 60s and throughout the 70s he collaborated with Superstudio and Archizoom Associati, within the Radical movement, until the foundation of Memphis Group in 1981, of which he was a founding member. In the mid-80s, with Sottsass Associati, mainly an architecture studio, he also designed elaborate shops and showrooms, company identities, exhibitions, interiors, Japanese consumer electronics, and furniture of all kinds. Ettore Sottsass was presented numerous international awards, winning the ADI Compasso d Oro in 1959. His work is on show in the permanent collections of many museums around the world such as the Metropolitan Museum of Art in New York, the Centre G. Pompidou in Paris, and the Victoria & Albert Museum in London."
-      },
-      {
-        "id": 22,
-        "name": "Cucumber Ceramic Flower Vase",
-        "category": "Decorative",
-        "image": "https://a.1stdibscdn.com/cucumber-ceramic-flower-vase-by-martine-bedin-from-memphis-milano-for-sale/1121189/f_173506421577510275141/17350642_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Martine Bedin",
-        "materials": "Ceramic",
-        "price": 471.02,
-        "about": "The Cucumber flower vase was originally designed by Martine Bedin in 1985 for Memphis. An object not thought for simple use but for a long contemplation, the ceramic vase is a true collector's item. Martine Bedin was born in Bordeaux in 1957. In 1981 she was one of the founding members of the Memphis group, She works as an architect, industrial designer and professor. Her works are exhibited in many museums and private collections."
-      },
-      {
-        "id": 23,
-        "name": "Sol Glass Fruit Bowl",
-        "category": "Decorative",
-        "image": "https://a.1stdibscdn.com/sol-glass-fruit-bowl-by-ettore-sottsass-from-memphis-milano-for-sale/1121189/f_173496521582359348264/17349652_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
-        "designer": "Martine Bedin",
-        "materials": "Glass",
-        "price": 5315.77,
-        "about": "The Sol glass fruit bowl was originally designed by Ettore Sottsass in 1982. Ettore Sottsass was born in Innsbruck in 1917. In 1939 he graduated in architecture at the Politecnico di Torino One of the most influential and important figures of the last century, Architect and Designer, he has participated in all radical movements whether created from the 1970s and 1980s. In 1981 he founded the Memphis group, a group that has radically changed the scenario of Italian and world design. Honored with numerous international awards, was winner of the Golden Compass in 1959. He designed the first laptop Valentina by Olivetti. He died in 2007 at the age of 90 years, however Memphis Milano continues and is the representation or Sottsass's great work and memory."
-      }
-    ]
-  }
-  
+  "furniture": [
+    {
+      "id": 1,
+      "name": "Palace Wood Chair",
+      "category": "Seating",
+      "image": "https://a.1stdibscdn.com/palace-wood-chair-by-george-sowden-from-memphis-milano-for-sale-picture-2/12330573/f_173490921577343751802/palace2_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "George Sowden",
+      "materials": "Wood, Lacquered",
+      "price": 1169.42,
+      "about": "Palace chair in colored lacquered wood, designed in 1983, by George Sowden. George Sowden was born in Leeds, UK in 1942. He studied architecture at Gloucestershire College of Art in the 1960s. He moved to Milano in 1970 where he started working with Ettore Sottsass and Olivetti. In 1981, he was one of the co-founders of the Memphis Group, the design movement that had a significant impact on design aesthetics in the eighties. The same year he founded his design studio Sowden Design, and has since collaborated with numerous world famous companies. George Sowden has received numerous awards. Memphis Milano is the great cultural phenomenon of the 1980s that revolutionized creative and commercial logics in design. Born from the idea of Ettore Sottsass and a group of young designers and architects, in Milan, coupled in the years by famous designers from the international scene, Memphis turned upside down all of the existing parameters on living. Ettore Sottsass as the backbone of the group, design gained a new concept and expression through new shapes, materials and patterns, expanding the creative limits of the industry. Memphis became a symbol of New Design. Its influence is still clear in various sectors of production and beyond."
+    },
+    {
+      "id": 2,
+      "name": "Big Sur Wooden Couch",
+      "category": "Seating",
+      "image": "https://a.1stdibscdn.com/big-sur-wooden-couch-by-peter-shire-from-memphis-milano-for-sale/1121189/f_173487621577510025238/17348762_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Peter Shire",
+      "materials": "Wood, Wool, Lacquered",
+      "price": 16070.3,
+      "about": "The Big Sur couch is made out of 100% wool, and the structure is in lacquered wood. The couch was originally designed in 1986 by Peter Shire for Memphis Milano. Peter Shire is a Los Angeles artist. Shire was born in the Echo Park district of Los Angeles, where he currently lives and works. His sculpture, furniture and ceramics have been exhibited in the United States, Italy, France, Japan and Poland, Shire has been associated with the Memphis Group of designers, has worked on the Design Team for the XXIII Olympiad with the American Institute of Architects, and has designed public sculptures in Los Angeles and other California cities. Shire has been honored by awards for his contribution to the cultural life of the City of Los Angeles. Memphis Milano is the great cultural phenomenon of the 1980s that revolutionized creative and commercial logics in design. Born from the idea of Ettore Sottsass and a group of young designers and architects, in Milan, coupled in the years by famous designers from the international scene, Memphis turned upside down all of the existing parameters on living. Ettore Sottsass as the backbone of the group, design gained a new concept and expression through new shapes, materials and patterns, expanding the creative limits of the industry. Memphis became a symbol of new design. Its influence is still clear in various sectors of production and beyond."
+    },
+    {
+      "id": 3,
+      "name": "Juan Chaise Lounge",
+      "category": "Seating",
+      "image": "https://a.1stdibscdn.com/juan-chaise-lounge-by-marco-zanini-from-memphis-milano-for-sale/1121189/f_173490021577510128963/17349002_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Marco Zanini",
+      "materials": "Metal, Plastic, Laminated",
+      "price": 9319.43,
+      "about": "Juan chaise lounge in plastic laminate, metal and alcantara. Designed in 1987, by Marco Zanini for Memphis Milano. Marco Zanini was born in Trento in 1954. He graduated in architecture at the University of Florence and perfects his studies in the US. In 1981 he was one of the founding members of the Memphis group. He works as an architect, designer, and has lectured on architecture and design in Japan, USA, Australia, New Zealand, Colombia, Chile and Spain. His works are exhibited in many museums and private collections in various. Memphis Milano is the great cultural phenomenon of the 1980s that revolutionized creative and commercial logics in design. Born from the idea of Ettore Sottsass and a group of young designers and architects, in Milan, coupled in the years by famous designers from the international scene, Memphis turned upside down all of the existing parameters on living. Ettore Sottsass as the backbone of the group, design gained a new concept and expression through new shapes, materials and patterns, expanding the creative limits of the industry. Memphis became a symbol of New Design. Its influence is still clear in various sectors of production and beyond."
+    },
+    {
+      "id": 4,
+      "name": "Dublin Couch",
+      "category": "Seating",
+      "image": "https://a.1stdibscdn.com/dublin-couch-by-marco-zanini-for-memphis-milano-collection-for-sale/1121189/f_241092921627586443302/24109292_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Marco Zanini",
+      "materials": "Plastic, Laminated",
+      "price": 9471.41,
+      "about": "Dublin couch in plastic, metal and fabric by Marco Zanini for Memphis Milano collection Additional information: Couch in plastic laminate, metal and nonflammable synthetic fabric. Collection: Memphis Milano Designer: Marco Zanini Year: 1981 Dimensions: W 185, D 76, H 80 cm The product is purchased with authenticity certificate and guarantee stamp. Pricing: price does not include VAT Marco Zanini graduated in Architecture from the University of Florence in 1976 and completed his studies in the United States. In 1977 he began collaborating with Ettore Sottsass in Milan. Zanini was one of the co-founders of Memphis in 1981, and designed works for all the collections. He designs ceramics, jewelry, furniture, and blown-glass objects. Founder together with Sottsass of Sottsass Associati, he is the Design Manager for many projects: office furniture for well-known brands, residential interiors, showroom interiors, exhibition design, street furniture and industrial products for a wide range of clients in Italy and abroad. He works as architect and designer in Japan, the United States, Australia, New Zealand, Colombia, Chile, and Spain. His works are to be found in numerous museums and private collections. Zanini holds frequent conferences on industrial design. Today he lives and works in São Paulo, Brazil. Memphis is the great cultural phenomenon of the 1980s that revolutionized creative and commercial logics in design. Born from the idea of Ettore Sottsass and a group of young designers and architects, in Milan, coupled in the years by famous designers from the international scene, Memphis turned upside down all of the existing parameters on living. Ettore Sottsass as the backbone of the group, design gained a new concept and expression through new shapes, materials and patterns, expanding the creative limits of the industry. Memphis became a symbol of New Design. Its influence is still clear in various sectors of production and beyond."
+    },
+    {
+      "id": 5,
+      "name": "First Wood and Metal Chair",
+      "category": "Seating",
+      "image": "https://a.1stdibscdn.com/first-wood-and-metal-chair-by-michele-de-lucchi-from-memphis-milano-for-sale/1121189/f_173488721577510081245/17348872_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Michele De Lucchi",
+      "materials": "Metal, Wood, Enameled",
+      "price": 1312.12,
+      "about": "The First chair in enameled wood and metal, was originally designed in 1983 by Michele De Lucchi. Michele De Lucchi was born in 1951 in Ferrara and graduated in architecture in Florence. During the period of radical and experimental architecture he was a prominent figure in movements like Cavart, Alchymia and Memphis. His architectural designs have been mainly for office buildings in Japan, in Germany, in Switzerland and in Italy. He has taken care of numerous art and design exhibitions and has planned buildings for museums as Triennale di Milano, Palazzo delle Esposizioni di Roma and Neues Museum Berlin. His professional work has always gone side-by-side with a personal exploration of architecture, design, technology and crafts. Memphis Milano is the great cultural phenomenon of the 1980s that revolutionized creative and commercial logics in design. Born from the idea of Ettore Sottsass and a group of young designers and architects, in Milan, coupled in the years by famous designers from the international scene, Memphis turned upside down all of the existing parameters on living. Ettore Sottsass as the backbone of the group, design gained a new concept and expression through new shapes, materials and patterns, expanding the creative limits of the industry. Memphis became a symbol of New Design. Its influence is still clear in various sectors of production and beyond."
+    },
+    {
+      "id": 6,
+      "name": "Riviera Chair",
+      "category": "Seating",
+      "image": "https://a.1stdibscdn.com/riviera-chair-in-plastic-laminate-memphis-milano-collection-for-sale/1121189/f_241096921627586508657/24109692_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Michele de Lucchi",
+      "materials": "Plastic, Laminated",
+      "price": 1740.21,
+      "about": "Riviera chair in plastic laminate with cushions covered for Memphis Milano collection Additional Information: Chair in plastic laminate with cushions covered in pink or black chintz cotton. Collection: Memphis Milano Designer: Michele De Lucchi Year: 1981 Dimensions: W 50, D 50, H 90 cm The product is purchased with authenticity certificate and guarantee stamp. Pricing: price does not include VAT Michele De Lucchi is an Italian designer and architect. In 1975 he graduated in Architecture from the University of Florence, where from 1975 to 1977 he worked as an assistant to Adolfo Natalini, the founder of Superstudio. Between the late ’70s and ’80s he was a leading figure in Radical Architecture, and participated in the leading Italian design movements of the time; he was also one of the co-founders of the Memphis Group, with which he collaborated from 1981 to 1987. De Lucchis projects at the time were carried out in collaboration with numerous Italian and European furniture brands. In 1990 he founded the Produzione Privata experimental workshop with the aim of combining an experimental approach with traditional techniques and craftsmanship. He has curated numerous art and design exhibitions and designed museum buildings such as the Triennale di Milano, the Palazzo delle Esposizioni in Rome and the Neues Museum in Berlin. He has carried out several projects for the city of Milan, including pavilions for Expo 2015, the UniCredit Pavilion in Piazza Gae Aulenti, and the setting up of the Pietà Rondanini at Castello Sforzesco. He teaches at the Faculty of Design of the Politecnico di Milano and is a member of the Accademia Nazionale di San Luca in Rome. Memphis is the great cultural phenomenon of the 1980s that revolutionized creative and commercial logics in design. Born from the idea of Ettore Sottsass and a group of young designers and architects, in Milan, coupled in the years by famous designers from the international scene, Memphis turned upside down all of the existing parameters on living. Ettore Sottsass as the backbone of the group, design gained a new concept and expression through new shapes, materials and patterns, expanding the creative limits of the industry. Memphis became a symbol of New Design. Its influence is still clear in various sectors of production and beyond."
+    },
+    {
+      "id": 7,
+      "name": "Treetops Floor Lamp",
+      "category": "Lighting",
+      "image": "https://a.1stdibscdn.com/treetops-floor-lamp-by-ettore-sottsass-from-memphis-milano-for-sale/1121189/f_173494021577510103910/17349402_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Ettore Sottsass",
+      "materials": "Glass, Metal",
+      "price": 2617.28,
+      "about": "Here you are shown the US wired Treetops floor lamp designed by Ettore Sottsass in 1981 in metal with halogen bulb. Ettore Sottsass was born in Innsbruck in 1917. In 1939 he graduated in architecture at the Politecnico di Torino. One of the most influential and important figures of the last century. As an Architect and Designer, he has participated in all radical movements whether created from the 1970s and 1980s. In 1981 he founded the Memphis group, a group that has radically changed the scenario of Italian and world design. Honored with numerous international awards, was winner of the Golden Compass in 1959. He designed the first laptop Valentina by Olivetti. He died in 2007 at the age of 90 years. Memphis Milano is the great cultural phenomenon of the 1980s that revolutionized creative and commercial logics in design. Born from the idea of Ettore Sottsass and a group of young designers and architects, in Milan, coupled in the years by famous designers from the international scene, Memphis turned upside down all of the existing parameters on living. Ettore Sottsass as the backbone of the group, design gained a new concept and expression through new shapes, materials and patterns, expanding the creative limits of the industry. Memphis became a symbol of New Design. Its influence is still clear in various sectors of production and beyond."
+    },
+    {
+      "id": 8,
+      "name": "Oceanic Table Lamp",
+      "category": "Lighting",
+      "image": "https://a.1stdibscdn.com/oceanic-table-lamp-eu-by-michele-de-lucchi-from-memphis-milano-for-sale/1121189/f_177576221582359365688/17757622_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Michele de Lucchi",
+      "materials": "Glass, Metal",
+      "price": 2617.28,
+      "about": "Here you are shown the EU wired, oceanic table lamp made in metal and glass, designed in 1981, by Michele De Lucchi. US version 110v also available in another listing. Michele De Lucchi was born in 1951 in Ferrara and graduated in architecture in Florence during the period of radical and experimental architecture he was a prominent figure in movements like Cavart, Alchymia and Memphis. His architectural designs have been mainly for office buildings in Japan, Germany, Switzerland and Italy. He has taken care of numerous art and design exhibitions and has planned buildings for museums as Triennale di Milano, Palazzo delle Esposizioni di Roma and Neues Museum Berlin. His professional work has always gone side-by-side with a personal exploration of architecture, design, technology and crafts."
+    },
+    {
+      "id": 9,
+      "name": "Ashoka Metal Table Lamp",
+      "category": "Lighting",
+      "image": "https://a.1stdibscdn.com/ashoka-metal-table-lamp-by-ettore-sottsass-from-memphis-milano-for-sale/1121189/f_173492121577510028772/17349212_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Ettore Sottsass",
+      "materials": "Metal, Lacquered",
+      "price": 2820.31,
+      "about": "Here you are shown the US wired, Ashoka Table Lamp in lacquered metal, designed by Ettore Sottsass in 1981 for Memphis Milano. Ettore Sottsass was born in Innsbruck in 1917. In 1939 he graduated in architecture at the Politecnico di Torino. One of the most influential and important figures of the last century. As an Architect and Designer, he has participated in all radical movements whether created from the 1970s and 1980s. In 1981 he founded the Memphis group, a group that has radically changed the scenario of Italian and world design. Honored with numerous international awards, was winner of the Golden Compass in 1959. He designed the first laptop Valentina by Olivetti. He died in 2007 at the age of 90 years."
+    },
+    {
+      "id": 10,
+      "name": "Santa Fe Porcelain Ceiling Lamp",
+      "category": "Lighting",
+      "image": "https://a.1stdibscdn.com/santa-fe-porcelain-ceiling-lamp-by-matteo-thun-from-memphis-milano-for-sale/1121189/f_173492921577510066739/17349292_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Matteo Thun",
+      "materials": "Porcelain, Glazed",
+      "price": 721.61,
+      "about": "Here you are shown the Santa Fe Porcelain Ceiling Lamp with EU wiring accessibility, designed in 1985 by Matteo Thun. The Lamp is made in porcelain, glazed in white and red. Lamp bulb is not included. Born 1952 in Bolzano, Italy. Matteo Thun studies under Oskar Kokoschka at the Salzburg Academy of Architectural, and receives a doctorate in Florence in 1975 with Adolfo Natalini. In 1978, he moves to Milan and becomes acquainted with Ettore Sottsass and starts working in his studio. Co-founding member in 1981 of Memphis Group, the design movement that so shaped events in the Eighties. The Vienna academy for Applied Arts appoints him to the Chair of Product Design and Ceramics in 1982. Terminates his work with Memphis and founds his own Studio Matteo Thun in Milan in 1984. Awarded three times the Compasso d’Oro for good design. Creative director from 1990 until 1993 for Swatch. Side Hotel Hamburg, Hotel of the year 2001. Gala spa award, vigilius mountain resort 2004. New look at the façade of “palazzo del cinema” during 61st Venice film festival, September 2004 and billboard. Selected for Compasso d Oro 2004 design prize for “Girly” by Catalano. Inducted into the Interior Design Hall of Fame, December 2004."
+    },
+    {
+      "id": 11,
+      "name": "Super Blue Table Light",
+      "category": "Lighting",
+      "image": "https://a.1stdibscdn.com/super-blue-table-or-floor-light-eu-by-martine-bedin-from-memphis-milano-for-sale/1121189/f_177568521582359356861/17756852_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Martine Bedin",
+      "materials": "Fiberglass, Glass",
+      "price": 2095.22,
+      "about": "Martine Bedin is an industrial designer, artist, architect and teacher. She studied Architecture at the École d architecture in Paris. In 1978 she received a scholarship that took her to Florence, where she met the members of the Radical Architecture movement: the founders of Alchimia, Superstudio and Archizoom Associati. The founder of Superstudio, Adolfo Natalini, invited her to exhibit The Decorated House at the Milan Triennale in 1979, where she met Michele De Lucchi and Ettore Sottsass. At the beginning of the 80s she spent two years in Sottsass studio, working on her own projects and writing for a French design and architecture magazine. In 1981 she was among the co-founders of the Memphis Group. Bedin works with various materials, such as marble, wood, metal, and ceramics. Her work is exhibited in major museums and private collections, such as the Musée des Arts Décoratifs in Paris, the Victoria & Albert Museum in London and the Manufacture Nationale de Sèvre."
+    },
+    {
+      "id": 12,
+      "name": "Charleston Floor Lamp",
+      "category": "Lighting",
+      "image": "https://a.1stdibscdn.com/charleston-us-110-v-floor-lamp-by-martine-bedin-for-memphis-milano-collection-for-sale/1121189/f_246730621627588228859/24673062_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Martine Bedin",
+      "materials": "Fiberglass, Glass",
+      "price": 1007,
+      "about": "Here you are shown the EU wired, super blue table or floor lamp in fiberglass, designed in 1981, by Martine Bedin. Color options also include: Yellow, White with Colored Sockets, and all White. US VERSION 110v AVAILABLE IN ANOTHER LISTING Martine Bedin was born in Bordeaux in 1957. In 1981 she was one of the founding members of the Memphis Group, she works as an architect, Industrial designer and professor. Her works are exhibited in many museums and private collections."
+    },
+    {
+      "id": 13,
+      "name": "Polar Side Table",
+      "category": "Tables",
+      "image": "https://a.1stdibscdn.com/polar-side-table-by-michele-de-lucchi-from-memphis-milano-for-sale/1121189/f_173491421577510011058/17349142_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Michele de Lucchi",
+      "materials": "Plastic, Laminated",
+      "price": 1978.04,
+      "about": "The Polar side table was originally designed by Michele De Lucchi in 1984 for Memphis Milano. It is made out of plastic laminate and lacquered wood. Michele De Lucchi was born in 1951 in Ferrara and graduated in architecture in Florence during the period of radical and experimental architecture he was a prominent figure in movements like Cavart, Alchymia and Memphis. His architectural designs have been mainly for office buildings in Japan, Germany, Switzerland and Italy. He has taken care of numerous art and design exhibitions and has planned buildings for museums as Triennale di Milano, Palazzo delle Esposizioni di Roma and Neues Museum Berlin. His professional work has always gone side-by-side with a personal exploration of architecture, design, technology and crafts."
+    },
+    {
+      "id": 14,
+      "name": "Emerald Side Table",
+      "category": "Tables",
+      "image": "https://a.1stdibscdn.com/emerald-side-table-1985-by-nathalie-du-pasquier-from-memphis-milano-for-sale/1121189/f_173488621577510075472/17348862_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Nathalie du Pasquier",
+      "materials": "Plastic, Wood, Laminated",
+      "price": 8434.24,
+      "about": "Emerald Sideboard in wood, plastic laminate and mirror, designed by Nathalie Du Pasquier in 1985. Nathalie du Pasquier was born in Bordeaux, France, in 1957. She has lived and worked in Milano since 1979. Until 1986 she worked as a designer and was a founder member of Memphis for which she designed many textiles, carpets, furniture and objects. When the group broke up in 87, painting became her main activity."
+    },
+    {
+      "id": 15,
+      "name": "Plaza Dressing Table",
+      "category": "Tables",
+      "image": "https://a.1stdibscdn.com/plaza-dressing-table-by-michael-graves-from-memphis-milano-for-sale/1121189/f_173491221577510006712/17349122_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Michael Graves",
+      "materials": "Glass, Wood, Lacquered",
+      "price": 27367.77,
+      "about": "The Plaza dressing table in briar, lacquered wood, glass, mirrors, and brass, contains six drawers. The Plaza was originally designed in 1981, by Michael Graves. Born in Indianapolis, he teaches architecture in Princeton since 1962. His architectural works include the Portland Building and the Humana Building, the extension of the Whitney Museum of American Art, and the Newark Museum. He designed the bed “Stanhope” and the dressing toilette “Plaza” for Memphis. Michael Graves died in 2015."
+    },
+    {
+      "id": 16,
+      "name": "Park Coffee Table",
+      "category": "Tables",
+      "image": "https://a.1stdibscdn.com/park-coffee-table-by-ettore-sottsass-for-memphis-milano-collection-for-sale/1121189/f_241096221627586496779/24109622_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Ettore Sottsass",
+      "materials": "Glass",
+      "price": 14739.62,
+      "about": "Ettore Sottsass was an Italian architect and designer. His work included furniture, jewelry, glass, lighting, home and office objects, as well as many buildings and interiors. He grew up in Turin and graduated in Architecture from the Politecnico di Torino in 1939. In 1947, in Milan, he founded his architecture and industrial design studio, where he began to create work using various media. In 1956, Sottsass went to New York and began to work in George Nelsons design studio. Back in Italy, he established major collaboration projects with Poltronova (1957) and Olivetti (1958). From the late 60s and throughout the 70s he collaborated with Superstudio and Archizoom Associati, within the Radical movement, until the foundation of Memphis Group in 1981, of which he was a founding member. In the mid-80s, with Sottsass Associati, mainly an architecture studio, he also designed elaborate shops and showrooms, company identities, exhibitions, interiors, Japanese consumer electronics, and furniture of all kinds. Ettore Sottsass was presented numerous international awards, winning the ADI Compasso d Oro in 1959. His work is on show in the permanent collections of many museums around the world such as the Metropolitan Museum of Art in New York, the Centre G. Pompidou in Paris, and the Victoria & Albert Museum in London"
+    },
+    {
+      "id": 17,
+      "name": "Brazil Side Table",
+      "category": "Tables",
+      "image": "https://a.1stdibscdn.com/brazil-side-table-by-peter-shire-from-memphis-milano-for-sale/1121189/f_173487721577510029308/17348772_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Peter Shire",
+      "materials": "Wood, Lacquered",
+      "price": 7398.23,
+      "about": "The Brazil side and console table in lacquered wood, was originally designed in 1981 by Peter Shire. Peter Shire is a Los Angeles artist. Shire was born in the Echo Park district of Los Angeles, where he currently lives and works. His sculpture, furniture and ceramics have been exhibited in the United States, Italy, France, Japan and Poland; Shire has been associated with the Memphis Group of designers, has worked on the Design Team for the XXIII Olympiad with the American Institute of Architects, and has designed public sculptures in Los Angeles and other California cities. Shire has been honored by awards for his contribution to the cultural life of the City of Los Angeles."
+    },
+    {
+      "id": 18,
+      "name": "Carrot Flower Vase",
+      "category": "Decorative",
+      "image": "https://a.1stdibscdn.com/carrot-flower-vase-by-nathalie-du-pasquier-from-memphis-milano-for-sale/1121189/f_173504621577510246239/17350462_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Nathalie du Pasquier",
+      "materials": "Ceramic",
+      "price": 385.17,
+      "about": "The Carrot ceramic vase was originally designed by Nathalie du Pasquier in 1985 for Memphis Milano. The transmuted ceramic arises in geometric compositions that expose the humor and poetry of everyday life. Nathalie du Pasquier was born in Bordeaux, France, in 1957.She has lived and worked in Milano since 1979. Until 1986 she worked as a designer and was a founder member of Memphis for which she designed many textiles, carpets, furniture and objects. When the group broke up in 87, painting became her main activity."
+    },
+    {
+      "id": 19,
+      "name": "Colorado Ceramic Teapot",
+      "category": "Decorative",
+      "image": "https://a.1stdibscdn.com/colorado-ceramic-teapot-by-marco-zanini-from-memphis-milano-for-sale/1121189/f_173505021577510270287/17350502_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Marco Zanini",
+      "materials": "Ceramic",
+      "price": 1112.58,
+      "about": "The Colorado teapot in ceramic was originally designed by Marco Zanini in 1983. Marco Zanini was born in Trento in 1954. He graduated in architecture at the University of Florence and perfects his studies in the US. In 1981 he was one of the founding members of the Memphis group. He works as an architect, designer, and has lectured on architecture and design in Japan, USA, Australia, New Zealand, Colombia, Chile and Spain. His works are exhibited in many museums and private collections in various."
+    },
+    {
+      "id": 20,
+      "name": "Imera Glass Vase",
+      "category": "Decorative",
+      "image": "https://a.1stdibscdn.com/31-imera-glass-vase-by-ettore-sottsass-from-memphis-milano-for-sale/1121189/f_173501121577510196866/17350112_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Ettore Sottsass",
+      "materials": "Blown Glass",
+      "price": 5116.23,
+      "about": "The Imera Glass Vase was originally designed by Ettore Sottsass in 1986. The vase is made out of blown glass, and signed on the base, for further information please see authenticity info below. Ettore Sottsass was born in Innsbruck in 1917. In 1939 he graduated in architecture at the Politecnico di Torino One of the most influential and important figures of the last century, Architect and Designer, he has participated in all radical movements whether created from the 1970s and 1980s. In 1981 he founded the Memphis group, a group that has radically changed the scenario of Italian and world design. Honored with numerous international awards, was winner of the Golden Compass in 1959. He designed the first laptop Valentina by Olivetti. He died in 2007 at the age of 90 years, however Memphis Milano continues and is the representation or Sottsass's great work and memory."
+    },
+    {
+      "id": 21,
+      "name": "Euphrates Vase",
+      "category": "Decorative",
+      "image": "https://a.1stdibscdn.com/euphrates-vase-in-porcelain-by-ettore-sottsass-for-memphis-milano-collection-for-sale/1121189/f_241099021627586537324/24109902_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Ettore Sottsass",
+      "materials": "Porcelain",
+      "price": 1407.25,
+      "about": "Ettore Sottsass was an Italian architect and designer. His work included furniture, jewelry, glass, lighting, home and office objects, as well as many buildings and interiors. He grew up in Turin and graduated in Architecture from the Politecnico di Torino in 1939. In 1947, in Milan, he founded his architecture and industrial design studio, where he began to create work using various media. In 1956, Sottsass went to New York and began to work in George Nelsons design studio. Back in Italy, he established major collaboration projects with Poltronova (1957) and Olivetti (1958). From the late 60s and throughout the 70s he collaborated with Superstudio and Archizoom Associati, within the Radical movement, until the foundation of Memphis Group in 1981, of which he was a founding member. In the mid-80s, with Sottsass Associati, mainly an architecture studio, he also designed elaborate shops and showrooms, company identities, exhibitions, interiors, Japanese consumer electronics, and furniture of all kinds. Ettore Sottsass was presented numerous international awards, winning the ADI Compasso d Oro in 1959. His work is on show in the permanent collections of many museums around the world such as the Metropolitan Museum of Art in New York, the Centre G. Pompidou in Paris, and the Victoria & Albert Museum in London."
+    },
+    {
+      "id": 22,
+      "name": "Cucumber Ceramic Flower Vase",
+      "category": "Decorative",
+      "image": "https://a.1stdibscdn.com/cucumber-ceramic-flower-vase-by-martine-bedin-from-memphis-milano-for-sale/1121189/f_173506421577510275141/17350642_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Martine Bedin",
+      "materials": "Ceramic",
+      "price": 471.02,
+      "about": "The Cucumber flower vase was originally designed by Martine Bedin in 1985 for Memphis. An object not thought for simple use but for a long contemplation, the ceramic vase is a true collector's item. Martine Bedin was born in Bordeaux in 1957. In 1981 she was one of the founding members of the Memphis group, She works as an architect, industrial designer and professor. Her works are exhibited in many museums and private collections."
+    },
+    {
+      "id": 23,
+      "name": "Sol Glass Fruit Bowl",
+      "category": "Decorative",
+      "image": "https://a.1stdibscdn.com/sol-glass-fruit-bowl-by-ettore-sottsass-from-memphis-milano-for-sale/1121189/f_173496521582359348264/17349652_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Martine Bedin",
+      "materials": "Glass",
+      "price": 5315.77,
+      "about": "The Sol glass fruit bowl was originally designed by Ettore Sottsass in 1982. Ettore Sottsass was born in Innsbruck in 1917. In 1939 he graduated in architecture at the Politecnico di Torino One of the most influential and important figures of the last century, Architect and Designer, he has participated in all radical movements whether created from the 1970s and 1980s. In 1981 he founded the Memphis group, a group that has radically changed the scenario of Italian and world design. Honored with numerous international awards, was winner of the Golden Compass in 1959. He designed the first laptop Valentina by Olivetti. He died in 2007 at the age of 90 years, however Memphis Milano continues and is the representation or Sottsass's great work and memory."
+    }
+  ]
+}

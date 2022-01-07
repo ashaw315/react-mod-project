@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import { BrowserRouter } from 'react-router-dom';
 import App from './App';
-
+import { StyledEngineProvider } from '@mui/material/styles';
 import reportWebVitals from './reportWebVitals';
 
 
@@ -11,7 +11,9 @@ import reportWebVitals from './reportWebVitals';
 const rootElement = document.getElementById("root");
 ReactDOM.render(
     <BrowserRouter>
+      <StyledEngineProvider injectFirst>
         <App />
+      </StyledEngineProvider>  
     </BrowserRouter>,
   rootElement
 );

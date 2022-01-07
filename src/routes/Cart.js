@@ -1,11 +1,34 @@
 import React from 'react';
+import styled from "styled-components"
+
+const Button = styled.button`
+    background: white;
+    padding: 10px;
+    margin-right: 20px;
+    border: 2px solid black;
+    transition: 500ms ease;
+    color: black;
+    text-decoration: none;
+    font: 1rem Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-shadow: 2px 2px;
+
+    
+
+    &:hover {
+        background: black;
+        color: white;
+        border: none;
+        transform: scale(1.2);
+        box-shadow: 2.2px 2.2px grey;
+    }
+    `;
 
 function Cart({ cartItems, onAdd, onRemove }) {
   
   const itemsPrice = cartItems.reduce((a, c) => a + c.qty * c.price, 0);
-  const taxPrice = itemsPrice * 0.14;
-  const shippingPrice = itemsPrice > 2000 ? 0 : 20;
-  const totalPrice = itemsPrice + taxPrice + shippingPrice;
+  const taxPrice = itemsPrice * 0.04;
+//   const shippingPrice = itemsPrice > 2000 ? 0 : 20;
+  const totalPrice = itemsPrice + taxPrice ;
   return (
     <aside className="block col-1">
       <h2>Cart Items</h2>
@@ -13,18 +36,20 @@ function Cart({ cartItems, onAdd, onRemove }) {
         {cartItems.length === 0 && <div>Cart is empty</div>}
         {cartItems.map((item) => (
           <div key={item.id} className="row">
-            <div className="col-2">{item.name}</div>
-            <div className="col-2">
-              <button onClick={() => onRemove(item)} className="remove">
+            <img className="col-2 cartimg" src={item.image} />
+            <div className="col-2 cartname">{item.name}</div>
+            <div className="col-2 itembutton">
+              <Button onClick={() => onRemove(item)} className="remove">
                 -
-              </button>{' '}
-              <button onClick={() => onAdd(item)} className="add">
+              </Button>{item.qty}
+              
+              <Button onClick={() => onAdd(item)} className="add">
                 +
-              </button>
+              </Button>
             </div>
 
-            <div className="col-2 text-right">
-              {item.qty} x ${item.price.toFixed(2)}
+            <div className="col-2 text-right item-position">
+              ${item.price.toFixed(2)}
             </div>
           </div>
         ))}
@@ -40,12 +65,12 @@ function Cart({ cartItems, onAdd, onRemove }) {
               <div className="col-2">Tax Price</div>
               <div className="col-1 text-right">${taxPrice.toFixed(2)}</div>
             </div>
-            <div className="row">
+            {/* <div className="row">
               <div className="col-2">Shipping Price</div>
               <div className="col-1 text-right">
                 ${shippingPrice.toFixed(2)}
               </div>
-            </div>
+            </div> */}
 
             <div className="row">
               <div className="col-2">
@@ -57,9 +82,9 @@ function Cart({ cartItems, onAdd, onRemove }) {
             </div>
             <hr />
             <div className="row">
-              <button onClick={() => alert('Implement Checkout!')}>
+              <Button onClick={() => alert('Implement Checkout!')}>
                 Checkout
-              </button>
+              </Button>
             </div>
           </>
         )}

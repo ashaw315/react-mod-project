@@ -16,13 +16,17 @@ function App() {
   const [page, setPage] = useState("/")
   const [cartItems, setCartItems] = useState([])
   const [search, setSearch] = useState("")
+  const [furnFilter, setFurnFilter] = useState("All")
+  const [data, setData] = useState([])
+  const [sortBy, setSortBy] = useState("Alphabetically");
   
 
   useEffect(() => {
-    fetch('https://floating-cove-91761.herokuapp.com/furniture')
+    fetch('http://localhost:3000/furniture')
       .then((r) => r.json())
       .then((furniture) => setFurniture(furniture))
   },[])
+
 
   const onAdd = (furniture) => {
     const exist = cartItems.find((x) => x.id === furniture.id);
@@ -51,11 +55,26 @@ function App() {
   };
 
 
-  const filterFurniture = furniture.filter((f) => {
-    if(search === "") {
+  const filterFurniture = furniture
+    .filter((f) => {
+      if(search === "") {
         return true;
-    } return f.name.toLowerCase().includes(search.toLowerCase())  || f.designer.toLowerCase().includes(search.toLowerCase())
-})
+      } return f.name.toLowerCase().includes(search.toLowerCase())  || f.designer.toLowerCase().includes(search.toLowerCase())
+    })
+    .filter((f) => {
+      return furnFilter === "All" || f.category === furnFilter;
+      })
+    .sort((furniture1, furniture2) => {
+  if (sortBy === "Alphabetically") {
+    return furniture1.name.localeCompare(furniture2.name);
+  } else {
+    return furniture1.price - furniture2.price;
+  } 
+});
+
+// const filteredFurniture = sortedFurniture.filter(
+//   (stock) => stock.type === filterBy
+// );
 
 function handleSearch (searchFurniture) {
     setSearch(searchFurniture);
@@ -66,21 +85,43 @@ function handleAddItem(newItem) {
 }
 
 
+// useEffect(() => {
+//   const sortArray = type => {
+//       const types = { 
+//           name: 'name',
+//           price: 'price',
+//       };
+//       const sortProperty = types[type];
+//       const sorted = [...furniture].sort((a, b) => b[sortProperty] - a[sortProperty]);
+//       console.log(sorted)
+//       setFurniture(sorted)
+//   }
+//   sortArray(sortType)
+// },[sortType])
+
+
+
+
+
 
   return (
     <div >
       <h1 className="header">memphis</h1>
       <Navbar countCartItems={cartItems.length}/>
       <Routes>
+        <Route path="/furniture/:id" element={<MemDetail furniture={furniture} onAdd={onAdd}/>} />  
         <Route path="/furniture" element={
           <Home 
             onAdd={onAdd} 
             cartItems={cartItems} 
             handleSearch={handleSearch}
-            onRemove={onRemove} 
-            filterFurniture={filterFurniture}/>} 
-            />
-        <Route path="/furniture/:id" component={MemDetail} />   
+            onRemove={onRemove}
+            furniture={furniture}
+            setFurnFilter={setFurnFilter} 
+            filterFurniture={filterFurniture}
+            sortBy={sortBy}
+            onChangeSort={setSortBy}/>} 
+            /> 
         <Route path="/history" element={<History />} />
         <Route path="/create" element={<Create />} />
         <Route path="/sell" element={<Sell onAddNewItem={handleAddItem}/>} />
