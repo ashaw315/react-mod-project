@@ -229,6 +229,26 @@
       "materials": "Glass",
       "price": 5315.77,
       "about": "The Sol glass fruit bowl was originally designed by Ettore Sottsass in 1982. Ettore Sottsass was born in Innsbruck in 1917. In 1939 he graduated in architecture at the Politecnico di Torino One of the most influential and important figures of the last century, Architect and Designer, he has participated in all radical movements whether created from the 1970s and 1980s. In 1981 he founded the Memphis group, a group that has radically changed the scenario of Italian and world design. Honored with numerous international awards, was winner of the Golden Compass in 1959. He designed the first laptop Valentina by Olivetti. He died in 2007 at the age of 90 years, however Memphis Milano continues and is the representation or Sottsass's great work and memory."
+    },
+    {
+      "name": "Broccoli Fruit Bowl",
+      "category": "Seating",
+      "image": "https://a.1stdibscdn.com/broccoli-fruit-bowl-by-marco-zanini-from-memphis-milano-for-sale/1121189/f_173504421577510238756/17350442_master.jpg?disable=upscale&auto=webp&quali",
+      "designer": "Marco Zanini",
+      "materials": "Ceramic",
+      "price": 618,
+      "about": "Ceramic three-level fruit bowl originally designed by Marco Zanini in 1985 for Memphis Milano. The three geometrical shapes in three colors complete the idea of a trilogy.\nMarco Zanini was born in Trento in 1954. He graduated in architecture at the University of Florence and perfects his studies in the US. In 1981 he was one of the founding members of the Memphis group. He works as an architect, designer, and has lectured on architecture and design in Japan, USA, Australia, New Zealand, Colombia, Chile and Spain. His works are exhibited in many museums and private collections in various.",
+      "id": 24
+    },
+    {
+      "name": "Tartar Table",
+      "category": "Seating",
+      "image": "https://a.1stdibscdn.com/tartar-table-by-ettore-sottsass-from-memphis-milano-for-sale/1121189/f_173492021577510024590/17349202_master.jpg?disable=upscale&auto=webp&quality=60&width=1318",
+      "designer": "Ettore Sottsass",
+      "materials": "Wood,Laminated",
+      "price": 15861,
+      "about": "Tartar Table in laminated wood was originally designed in 1985, by Ettore Sottsass for Memphis Milano. Ettore Sottsass was born in Innsbruck in 1917. In 1939 he graduated in architecture at the Politecnico di Torino. One of the most influential and important figures of the last century. As an architect and designer, he has participated in all radical movements whether created from the 1970s and 1980s. In 1981 he founded the Memphis Group, a group that has radically changed the scenario of Italian and world design. Honored with numerous international awards, was winner of the Golden Compass in 1959. He designed the first laptop \"Valentina\" by Olivetti. He died in 2007 at the age of 90 years.",
+      "id": 25
     }
   ]
 }

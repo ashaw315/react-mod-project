@@ -45,7 +45,7 @@ function Navbar({ countCartItems }) {
             <ThemeProvider theme={theme}> 
 
                 <Link to="/furniture" style={{ textDecoration: 'none' }}>
-                    <Button variant="text" color='purple'>Home</Button>
+                    <Button variant="text" color='purple'>Store</Button>
                 </Link>  {" "}
 
                 <Link to="/history" style={{ textDecoration: 'none' }}>

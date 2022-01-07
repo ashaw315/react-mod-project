@@ -23,7 +23,7 @@ function App() {
   
 
   useEffect(() => {
-    fetch('https://floating-cove-91761.herokuapp.com/furniture')
+    fetch('http://localhost:3000/furniture')
       .then((r) => r.json())
       .then((furniture) => setFurniture(furniture))
   },[])

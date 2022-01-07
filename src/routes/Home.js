@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import MemCard from "./MemCard";
 import FilterBar from "./FilterBar";
 
@@ -6,47 +6,18 @@ import FilterBar from "./FilterBar";
 
 function Home ({ 
         onAdd, 
-        cartItems, 
-        onRemove, 
-        furniture, 
         filterFurniture, 
         handleSearch, 
         setFurnFilter, 
         sortBy, 
         onChangeSort }) {
-    
-// const [furniture, setFurniture] = useState([])
-const [data, setData] = useState([])
-const [sortType, setSortType] = useState('name');
 
-
-
-  
-// useEffect(() => {
-//     fetch('http://localhost:3000/furniture')
-//         .then((r) => r.json())
-//         .then((furniture) => setFurniture(furniture))
-// },[])
 
 const furnitureItems = filterFurniture
     .map((furn) => {
     return <MemCard key={furn.id} furn={furn} onAdd={onAdd} />
     })  
-   
-// useEffect(() => {
-//     const sortArray = type => {
-//         const types = { 
-//             name: 'name',
-//             price: 'price',
-//         };
-//         const sortProperty = types[type];
-//         const sorted = [...furniture].sort((a, b) => b[sortProperty] - a[sortProperty]);
-//         console.log(sorted)
-//         setData(sorted)
-//     }
-//     sortArray(sortType)
-// },[sortType])
-   
+
 function handleSortChange(event) {
     onChangeSort(event.target.value);
     console.log(event.target.value)

@@ -45,7 +45,7 @@ const { id } = useParams();
 
 
     useEffect(() => {
-        fetch(`https://floating-cove-91761.herokuapp.com/furniture/${id}`)
+        fetch(`http://localhost:3000/furniture/${id}`)
         .then((r) => r.json())
         .then((furniture) => {
             setFurniture(furniture);

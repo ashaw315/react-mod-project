@@ -68,7 +68,7 @@ function handleSubmitItem(e){
         image: image,
         designer: designer,
         materials: materials,
-        price: parseInt(price),
+        price: parseFloat(price),
         about: about,
     }
     setName("")
