@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-mod-project/static/css/main.f3bfef0f.css",
+    "main.js": "/react-mod-project/static/js/main.e982e407.js",
+    "static/js/787.f630a51b.chunk.js": "/react-mod-project/static/js/787.f630a51b.chunk.js",
+    "static/media/Memphis-group.png": "/react-mod-project/static/media/Memphis-group.2b561f49b390c13c8efa.png",
+    "static/media/Memphis-Design.png": "/react-mod-project/static/media/Memphis-Design.f3fcc5c0a7383ccb1638.png",
+    "static/media/ettore-sottsass.png": "/react-mod-project/static/media/ettore-sottsass.5c2725c035653cc92af8.png",
+    "static/media/memphis-splash.png": "/react-mod-project/static/media/memphis-splash.1cf46c6704252cce73d7.png",
+    "index.html": "/react-mod-project/index.html",
+    "main.f3bfef0f.css.map": "/react-mod-project/static/css/main.f3bfef0f.css.map",
+    "main.e982e407.js.map": "/react-mod-project/static/js/main.e982e407.js.map",
+    "787.f630a51b.chunk.js.map": "/react-mod-project/static/js/787.f630a51b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3bfef0f.css",
+    "static/js/main.e982e407.js"
+  ]
+}
