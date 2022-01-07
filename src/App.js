@@ -9,6 +9,7 @@ import Create from "./routes/Create";
 import Sell from "./routes/Sell";
 import Cart from "./routes/Cart";
 import MemDetail from "./routes/MemDetail";
+import SplashPage from "./routes/SplashPage";
 import './App.css'
 
 function App() {
@@ -108,9 +109,10 @@ function handleAddItem(newItem) {
 
   return (
     <div >
-      <h1 className="header">memphis</h1>
+      <a className="header" href="/" style={{ textDecoration: 'none', color: "black" }}>memphis</a>
       <Navbar countCartItems={cartItems.length}/>
       <Routes>
+        <Route path="/" element= {<SplashPage />}/>
         <Route path="/furniture/:id" element={<MemDetail furniture={furniture} onAdd={onAdd}/>} />  
         <Route path="/furniture" element={
           <Home 

@@ -48,19 +48,19 @@ function Navbar({ countCartItems }) {
                     <Button variant="text" color='purple'>Home</Button>
                 </Link>  {" "}
 
-                <Link to="/History" style={{ textDecoration: 'none' }}>
+                <Link to="/history" style={{ textDecoration: 'none' }}>
                     <Button variant="text" color='yellow'>History</Button>
                 </Link>  {" "}
 
-                <Link to="/Create" style={{ textDecoration: 'none' }}>
+                <Link to="/create" style={{ textDecoration: 'none' }}>
                     <Button variant="text" color='red'>Create</Button>
                 </Link> {" "}
 
-                <Link to="/Sell" style={{ textDecoration: 'none' }}>
+                <Link to="/sell" style={{ textDecoration: 'none' }}>
                     <Button variant="text" color='green'>Sell</Button>
                 </Link>  {" "}
 
-                <Link to="/Cart" style={{ textDecoration: 'none' }}>
+                <Link to="/cart" style={{ textDecoration: 'none' }}>
                     <Button variant="text" color='black'>
                       
                       Cart{' '}

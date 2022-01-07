@@ -71,7 +71,7 @@ function handleSortChange(event) {
                 type="radio"
                 value="Alphabetically"
                 name="sort"
-                checkbox={sortBy === "Alphabetically"}
+                checked={sortBy === "Alphabetically"}
                 onChange={handleSortChange}
                 />
                 Alphabetically
