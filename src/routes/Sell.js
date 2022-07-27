@@ -49,13 +49,7 @@ const [materials, setMaterials] = useState("")
 const [price, setPrice] = useState(0)
 const [about, setAbout] = useState("")
 
-//Modal display //
-// const [show, setShow] = useState(false);
-
-// const handleClose = () => setShow(false);
-// const handleShow = () => setShow(true);
-
-const [open, setOpen] = React.useState(false);
+const [open, setOpen] = useState(false);
 const handleOpen = () => setOpen(true);
 const handleClose = () => setOpen(false);
 
@@ -136,7 +130,7 @@ function handleSubmitItem(e){
                     value={price}
                     onChange={(e) => setPrice(e.target.value)}
                     />
-                    <label htmlFor="image">Image</label>
+                    <label htmlFor="image">Image Url</label>
                      <input
                     type="text"
                     name="image"

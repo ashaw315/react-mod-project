@@ -1,7 +1,5 @@
 import React,{useState, useEffect} from "react";
-import {Link} from "react-router-dom";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import FurnitureList from "./FurnitureList";
+import { Routes, Route } from "react-router-dom";
 import Navbar from "./routes/Navbar";
 import Home from "./routes/Home";
 import History from "./routes/History";
@@ -14,13 +12,13 @@ import './App.css'
 
 function App() {
   const [furniture, setFurniture] = useState([])
-  const [page, setPage] = useState("/")
   const [cartItems, setCartItems] = useState([])
   const [search, setSearch] = useState("")
   const [furnFilter, setFurnFilter] = useState("All")
-  const [data, setData] = useState([])
   const [sortBy, setSortBy] = useState("Alphabetically");
   
+
+  console.log("items exist?",furniture)
 
   useEffect(() => {
     fetch('http://localhost:3000/furniture')
@@ -75,10 +73,6 @@ function App() {
   }
 });
 
-// const filteredFurniture = sortedFurniture.filter(
-//   (stock) => stock.type === filterBy
-// );
-
 function handleSearch (searchFurniture) {
     setSearch(searchFurniture);
 }
@@ -87,32 +81,12 @@ function handleAddItem(newItem) {
   setFurniture([...furniture, newItem]);
 }
 
-
-// useEffect(() => {
-//   const sortArray = type => {
-//       const types = { 
-//           name: 'name',
-//           price: 'price',
-//       };
-//       const sortProperty = types[type];
-//       const sorted = [...furniture].sort((a, b) => b[sortProperty] - a[sortProperty]);
-//       console.log(sorted)
-//       setFurniture(sorted)
-//   }
-//   sortArray(sortType)
-// },[sortType])
-
-
-
-
-
-
   return (
     <div >
-      <a className="header" href="/" style={{ textDecoration: 'none', color: "black" }}>memphis</a>
+      <a className="header" href="/react-mod-project" style={{ textDecoration: 'none', color: "black" }}>memphis</a>
       <Navbar countCartItems={cartItems.length}/>
       <Routes>
-        <Route path="/" element= {<SplashPage />}/>
+        <Route path="/react-mod-project" element= {<SplashPage />}/>
         <Route path="/furniture/:id" element={<MemDetail furniture={furniture} onAdd={onAdd}/>} />  
         <Route path="/furniture" element={
           <Home 
@@ -129,7 +103,7 @@ function handleAddItem(newItem) {
         <Route path="/history" element={<History />} />
         <Route path="/create" element={<Create />} />
         <Route path="/sell" element={<Sell onAddNewItem={handleAddItem}/>} />
-        <Route path="/cart" element={<Cart cartItems={cartItems} onAdd={onAdd} onRemove={onRemove} cartItems={cartItems}/>} />
+        <Route path="/cart" element={<Cart cartItems={cartItems} onAdd={onAdd} onRemove={onRemove} />} />
       </Routes>
 
       

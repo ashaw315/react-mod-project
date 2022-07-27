@@ -1,71 +1,66 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# MEMPHIS
 
-In the project directory, you can run:
+#### By **Adam Shaw**
 
-### `npm start`
+#### MEMPHIS - A FURNITURE STORE
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+React, React Router, Styled Components
 
-### `npm test`
+## Description
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Memphis is a mock furniture store for selling and learning about Memphis Milano designers and objects. 
 
-### `npm run build`
+## Sections
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### *Store*
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Visitors can see Memphis objects
+- Clicking see more will take visitors to a details page to learn more about the object
+- Visitors can add items to cart and cart link will display number of items in cart
+- -*NOTE*- All objects are pulled from and stored in a local database. This database is constructed with data from the website [1st Dibs](https://www.1stdibs.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### *History*
 
-### `npm run eject`
+ - Visting this tab will allow visitors to learn more about the Memphis groups history.
+ - -*NOTE*- All content is taken from Wikipedia.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### *Create*
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Visitors will be able to draw their own memphis design on a canvas.
+- Change brush color!
+- Change brush size!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### *Sell*
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- If visitors have a Memphis object of their own they would like to sell they can list it on our website.
+- The form takes data and posts it on our local backend.
+- New items are then displayed on our store page.
+    
+### *Cart*
 
-## Learn More
+- When visitors add an item to the cart it is passed to the cart page. 
+- Visitors can increment or decrement the quanity of a particular item. Doing so will change pricing.
+- Visitors can mock checkout to a great display of confetti!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Prerequisites
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Before you continue, ensure you have met the following requirements:
 
-### Code Splitting
+You have installed the latest version of npm
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Setup/Installation Requirements
 
-### Analyzing the Bundle Size
+* Download or clone repository
+* Install dependencies:
+    * Run `npm install` in console
+* Run `npm run server` to start the local backend server
+* Run `npm start` to start application
+* If app doesn't automatically open in your browser, go to localhost:4000 to view the app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Copyright (c) 2022 Adam Shaw
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# react-mod-project

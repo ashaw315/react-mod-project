@@ -14,7 +14,6 @@ const Button = styled.button`
     font: 1rem Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 12px;
     box-shadow: 2px 2px black;
-
     &:hover {
         background: dodgerblue;
         color: white;

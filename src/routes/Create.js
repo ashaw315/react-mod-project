@@ -1,6 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
 import Menu from "./Menu";
-import useUndo from "./useUndo";
 
 
 function Create () {
@@ -55,24 +54,23 @@ function Create () {
     
     return (
         <div className="create">
-        <h2 className="create-title">create your own memphis design</h2>
-        <Menu
-            setLineColor={setLineColor}
-            setLineWidth={setLineWidth}
-            setLineOpacity={setLineOpacity}
-            canvasRef={canvasRef.current}
-            />
-        <div className="draw-area">
-            <canvas
-            onMouseDown={startDrawing}
-            onMouseUp={endDrawing}
-            onMouseMove={draw}
-            ref={canvasRef}
-            width={`850px`}
-            height={`550px`}
-            />
-            
-        </div>
+            <h2 className="create-title">create your own memphis design</h2>
+            <Menu
+                setLineColor={setLineColor}
+                setLineWidth={setLineWidth}
+                setLineOpacity={setLineOpacity}
+                canvasRef={canvasRef.current}
+                />
+            <div className="draw-area">
+                <canvas
+                onMouseDown={startDrawing}
+                onMouseUp={endDrawing}
+                onMouseMove={draw}
+                ref={canvasRef}
+                width={`850px`}
+                height={`550px`}
+                />
+            </div>
         </div>
     );
     }

@@ -12,9 +12,6 @@ const Button = styled.button`
     text-decoration: none;
     font: 1rem Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     box-shadow: 2px 2px;
-
-    
-
     &:hover {
         background: black;
         color: white;
@@ -81,7 +78,6 @@ function Cart({ cartItems, onAdd, onRemove }) {
   
   const itemsPrice = cartItems.reduce((a, c) => a + c.qty * c.price, 0);
   const taxPrice = itemsPrice * 0.04;
-//   const shippingPrice = itemsPrice > 2000 ? 0 : 20;
   const totalPrice = itemsPrice + taxPrice ;
   return (
     <aside className="block col-1">
@@ -119,13 +115,6 @@ function Cart({ cartItems, onAdd, onRemove }) {
               <div className="col-2">Tax Price</div>
               <div className="col-1 text-right">${taxPrice.toFixed(2)}</div>
             </div>
-            {/* <div className="row">
-              <div className="col-2">Shipping Price</div>
-              <div className="col-1 text-right">
-                ${shippingPrice.toFixed(2)}
-              </div>
-            </div> */}
-
             <div className="row">
               <div className="col-2">
                 <strong>Total Price</strong>

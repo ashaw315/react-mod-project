@@ -2,8 +2,6 @@ import React from "react";
 import MemCard from "./MemCard";
 import FilterBar from "./FilterBar";
 
-
-
 function Home ({ 
         onAdd, 
         filterFurniture, 
@@ -22,9 +20,6 @@ function handleSortChange(event) {
     onChangeSort(event.target.value);
     console.log(event.target.value)
   }
-
-
-
 
     return (
         <div className="main" style={{ padding: "1rem 0" }}>

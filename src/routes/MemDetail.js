@@ -5,7 +5,6 @@ import Accordion from '@mui/material/Accordion';
 import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import Typography from '@mui/material/Typography';
-import { useAccordionButton } from 'react-bootstrap/AccordionButton';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 
 const Button = styled.button`
@@ -18,9 +17,6 @@ const Button = styled.button`
     text-decoration: none;
     font: 1rem Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     box-shadow: 2px 2px;
-
-    
-
     &:hover {
         background: black;
         color: white;
@@ -33,16 +29,7 @@ const Button = styled.button`
 function MemDetail({ onAdd }) {
     const [furniture, setFurniture] = useState(null);
     const [isLoaded, setIsLoaded] = useState(false);
-
-    
-
-const { id } = useParams();
-// const history = useNavigate();
-
-// function handleBack() {
-//     history.goBack();
-// }
-
+    const { id } = useParams();
 
     useEffect(() => {
         fetch(`http://localhost:3000/furniture/${id}`)
@@ -56,17 +43,11 @@ const { id } = useParams();
     if (!isLoaded) return <h2>Loading...</h2>;
     const {name, category, image, designer, materials, price, about} = furniture
 
-    console.log(furniture)
-
-    console.log(name)
-
-
-
 return (
     <section className="whole-detail">
         <div className="project-image">
           <img src={image} alt={name} />
-        </div>
+      </div>
   
         <div className="furn-details">
           <p className="price-detail">{name}</p>
@@ -86,14 +67,13 @@ return (
                 <Typography>
                 <p>{about}</p>
                 </Typography>
-        </AccordionDetails>
-      </Accordion>
-          <Button className="button-card" onClick={() => onAdd(furniture)}>Add To Cart</Button><Link to="/furniture">
-          <Button className="button-go-back">Go Back</Button>
-        </Link>
-
-          
-          <div>
+            </AccordionDetails>
+          </Accordion>
+          <Button className="button-card" onClick={() => onAdd(furniture)}>Add To Cart</Button>
+          <Link to="/furniture">
+            <Button className="button-go-back">Go Back</Button>
+          </Link>
+        <div>
       </div>
     </div>
   </section>
